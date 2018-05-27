@@ -1,1 +1,1 @@
-echo "Test page";
+Test page
