@@ -1,3 +1,4 @@
+<php header('location/about.html'); ?>
 <!DOCTYPE html>
 <html>
 <head>
