@@ -1,4 +1,4 @@
-<php header('location/about.html'); ?>
+<php header('location/about.php'); ?>
 <!DOCTYPE html>
 <html>
 <head>
